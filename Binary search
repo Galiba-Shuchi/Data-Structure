@@ -21,7 +21,7 @@ int main() {
     first = 0;
     last = n - 1;
 
-    // Binary search using for loop
+    // Binary search 
     for (i = 0; first <= last; i++) {
         middle = (first + last) / 2;
 
