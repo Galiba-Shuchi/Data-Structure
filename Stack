@@ -67,8 +67,6 @@ int main() {
         case 4:
             display();
             break;
-        case 5:
-            return 0;
         default:
             printf("error");
         }
