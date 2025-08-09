@@ -162,7 +162,7 @@ int main() {
         case 7:
             exit(0);
         default:
-            printf("ভুল অপশন!\n");
+            printf("INVALID OPTION!\n");
         }
     }
     return 0;
